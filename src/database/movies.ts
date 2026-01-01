@@ -21,7 +21,7 @@ export const movies: movieSchema[] = [
         genre: "Sci-Fi",
         director: "Emma Rodriguez",
         rating: 8.2,
-        poster: "https://picsum.photos/seed/movie1/300/450",
+        poster: "https://picsum.photos/seed/movie1/600/900",
         description: "A crew of astronauts discovers a mysterious signal from the edge of the galaxy that could change humanity's future forever."
     },
     {
@@ -31,7 +31,7 @@ export const movies: movieSchema[] = [
         genre: "Thriller",
         director: "Hassan Al-Mahmoud",
         rating: 7.5,
-        poster: "https://picsum.photos/seed/movie2/300/450",
+        poster: "https://picsum.photos/seed/movie2/600/900",
         description: "An intelligence agent races against time to stop an international conspiracy unfolding in the streets of Cairo."
     },
     {
@@ -41,7 +41,7 @@ export const movies: movieSchema[] = [
         genre: "Drama",
         director: "Sophie Chen",
         rating: 8.7,
-        poster: "https://picsum.photos/seed/movie3/300/450",
+        poster: "https://picsum.photos/seed/movie3/600/900",
         description: "A young woman inherits her grandmother's bakery and discovers a family secret that spans three generations."
     },
     {
@@ -51,7 +51,7 @@ export const movies: movieSchema[] = [
         genre: "Action",
         director: "Marcus Johnson",
         rating: 6.9,
-        poster: "https://picsum.photos/seed/movie4/300/450",
+        poster: "https://picsum.photos/seed/movie4/600/900",
         description: "When a hacker threatens to shut down the city's infrastructure, a retired cop must come out of retirement for one last mission."
     },
     {
@@ -61,7 +61,7 @@ export const movies: movieSchema[] = [
         genre: "Horror",
         director: "Yuki Tanaka",
         rating: 7.8,
-        poster: "https://picsum.photos/seed/movie5/300/450",
+        poster: "https://picsum.photos/seed/movie5/600/900",
         description: "A group of friends on a camping trip encounter something ancient and malevolent lurking in the forest."
     },
     {
@@ -71,7 +71,7 @@ export const movies: movieSchema[] = [
         genre: "Romance",
         director: "Isabella Rossi",
         rating: 7.1,
-        poster: "https://picsum.photos/seed/movie6/300/450",
+        poster: "https://picsum.photos/seed/movie6/600/900",
         description: "Two rival app developers fall in love while competing for the same startup funding."
     },
     {
@@ -81,7 +81,7 @@ export const movies: movieSchema[] = [
         genre: "Mystery",
         director: "Pierre Dubois",
         rating: 8.4,
-        poster: "https://picsum.photos/seed/movie7/300/450",
+        poster: "https://picsum.photos/seed/movie7/600/900",
         description: "A detective investigates the theft of a priceless piano that leads him into the dark world of art smuggling."
     },
     {
@@ -91,7 +91,7 @@ export const movies: movieSchema[] = [
         genre: "Sci-Fi",
         director: "James Carter",
         rating: 7.6,
-        poster: "https://picsum.photos/seed/movie8/300/450",
+        poster: "https://picsum.photos/seed/movie8/600/900",
         description: "Earth's last defense force battles an alien invasion with experimental technology and courage."
     },
     {
@@ -101,7 +101,7 @@ export const movies: movieSchema[] = [
         genre: "Comedy",
         director: "Maria Garcia",
         rating: 6.8,
-        poster: "https://picsum.photos/seed/movie9/300/450",
+        poster: "https://picsum.photos/seed/movie9/600/900",
         description: "A celebrity chef's life spirals out of control when a food critic gives him a devastating review."
     },
     {
@@ -111,7 +111,17 @@ export const movies: movieSchema[] = [
         genre: "Drama",
         director: "David Kim",
         rating: 8.9,
-        poster: "https://picsum.photos/seed/movie10/300/450",
+        poster: "https://picsum.photos/seed/movie10/600/900",
         description: "A time traveler struggles with the consequences of changing the past while trying to save his family."
+    },
+    {
+        id: 11,
+        title: "Fake Film",
+        year: 2099,
+        genre: "Unknown",
+        director: "Unknown",
+        rating: 1.1,
+        poster: "https://picsum.photos/seed/movie11/600/900",
+        description: "A film that\'s nothing is known about it."
     }
 ];
